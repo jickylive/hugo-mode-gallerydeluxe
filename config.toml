@@ -1,5 +1,5 @@
-baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+baseURL      = "https://pages.jicky.cn/"
+title        = "jicky's Gallery Deluxe"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
@@ -51,4 +51,4 @@ disableKinds = ["section", "taxonomy", "term"]
         source = "static"
         target = "static"
     [[module.imports]]
-        path = "github.com/bep/gallerydeluxe"
+        path = "github.com/jickylive/hugo-mode-gallerydeluxe"
